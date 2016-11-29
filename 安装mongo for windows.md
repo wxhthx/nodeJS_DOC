@@ -6,3 +6,4 @@
     输入如下的命令启动mongodb服务：
     ```Bash
     D:/mongodb/bin>mongod --dbpath D:\mongodb\data\db
+    ```
